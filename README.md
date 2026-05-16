@@ -8,7 +8,9 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 1.	Intialize the matrix Q and u
 2.	The vector u and e is given by
 <img width="263" height="97" alt="ex4" src="https://github.com/user-attachments/assets/28f94db7-c035-4188-9ab9-464677fea604" />
+
 <img width="82" height="52" alt="ex6" src="https://github.com/user-attachments/assets/f898915c-461b-4dd0-843a-cc3c345cef08" />
+
 <img width="90" height="56" alt="ex3" src="https://github.com/user-attachments/assets/7ecc651c-02cf-4ebf-adf5-79b8c4deff4b" />
 
 3.	Obtain the Q matrix   
